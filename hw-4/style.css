@@ -1,0 +1,19 @@
+body{
+    background-color: lightcyan;
+}
+
+.post{
+    text-align: center  ;
+    width: 300px;
+    height: 2;
+    margin: 10px;
+    border:  black 1px solid;
+    border-radius: 10px;
+}
+
+
+#box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
